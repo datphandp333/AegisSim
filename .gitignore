@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# Maven
+.mvn/timing.properties
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / React
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Test / coverage
+coverage/
+.pytest_cache/
+
+# Docker
+*.pid
+
+# Temporary files
+*.tmp
+*.swp
